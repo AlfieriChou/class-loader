@@ -1,0 +1,19 @@
+{
+  "name": "class-loader",
+  "version": "0.0.1",
+  "description": "class loader.",
+  "main": "index.js",
+  "repository": "https://github.com/AlfieriChou/class-loader",
+  "author": "AlfieriChou <alfierichou@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "is-class": "^0.0.9",
+    "read-dir-filenames": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
