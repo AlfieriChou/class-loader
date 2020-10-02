@@ -1,5 +1,5 @@
 {
-  "name": "class-loader",
+  "name": "@alfieri/class-loader",
   "version": "0.0.1",
   "description": "class loader.",
   "main": "index.js",
