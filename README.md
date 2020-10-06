@@ -3,13 +3,13 @@
 ## install
 
 ```
-npm install class-loader
+npm install @alfieri/class-loader
 ```
 
 ## how to use
 
 ```
-const classLoader = require('class-loader')
+const classLoader = require('@alfieri/class-loader')
 const path = require('path')
 
 const service = classLoader(path.join(__dirname, '/app/service'))

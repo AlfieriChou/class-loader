@@ -1,6 +1,6 @@
 {
   "name": "@alfieri/class-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "class loader.",
   "main": "index.js",
   "repository": "https://github.com/AlfieriChou/class-loader",
